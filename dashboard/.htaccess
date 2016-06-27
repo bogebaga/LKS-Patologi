@@ -1,0 +1,64 @@
+#file page is need authentication
+ErrorDocument 400 /LKS-Patologi/dashboard/errordocs/400.php
+#file page Bad Request
+ErrorDocument 401 /LKS-Patologi/dashboard/errordocs/401.php
+#file page is forbidden
+ErrorDocument 403 /LKS-Patologi/dashboard/errordocs/403.php
+#file page is not found
+ErrorDocument 404 /LKS-Patologi/dashboard/errordocs/404.php
+#file page internal server error
+ErrorDocument 500 /LKS-Patologi/dashboard/errordocs/500.php
+
+Options -Indexes
+
+<IfModule mod_rewrite.c>
+# Turn mod_rewrite on
+RewriteEngine On
+
+#GENERAL
+rewriteRule ^login.page/$ medical-record/controller/login.php [L,QSA]
+rewriteRule ^user.page/$ medical-record/controller/index_2.php [L,QSA]
+rewriteRule ^admin.page/$ medical-record/controller/index.php [L,QSA]
+rewriteRule ^logout/$ medical-record/controller/logout.php [L,QSA]
+
+#ADMIN
+rewriteRule ^admin.page/input-data-lks/$ medical-record/controller/admin/input_data_lks.php [L,QSA]
+rewriteRule ^admin.page/input-data-lks/tes$ medical-record/controller/admin/tes.php [L,QSA]
+rewriteRule ^admin.page/input-data-lks/proses$ medical-record/controller/admin/process.php [L,QSA]
+rewriteRule ^admin.page/edit-data-lks/$ medical-record/controller/admin/edit_data_lks.php [L,QSA]
+rewriteRule ^admin.page/edit-data-lks/proses$ medical-record/controller/admin/process.php [L,QSA]
+rewriteRule ^admin.page/edit-data-lks/tes$ medical-record/controller/admin/tes.php [L,QSA]
+rewriteRule ^admin.page/view-data-lks/$ medical-record/controller/admin/view_data_lks-2.php [L,QSA]
+rewriteRule ^admin.page/view-data-lks/delete/$ medical-record/controller/admin/admin-delete-lks.php [L,QSA]
+rewriteRule ^admin.page/view-data-lks/LKS-page/$ medical-record/controller/admin/pdf-lks.php [L,QSA]
+rewriteRule ^admin.page/search/delete/$ medical-record/controller/admin/admin-delete-lks.php [L,QSA]
+rewriteRule ^admin.page/search/$ medical-record/controller/admin/search_data_lks.php [L,QSA]
+rewriteRule ^admin.page/tabung_details/$ medical-record/controller/admin/view_tube_admin.php [L,QSA]
+# rewriteRule ^admin.page/view-data-lks/pdf-page/$ medical-record/ROOT_PDF/ [L]
+
+rewriteRule ^admin.page/input-data-user/$ medical-record/controller/admin/input_data_user.php [L,QSA]
+rewriteRule ^admin.page/edit-data-admin/$ medical-record/controller/admin/edit_data_user.php [L,QSA]
+rewriteRule ^admin.page/edit-data-user/$ medical-record/controller/admin/edit_data_user.php [L,QSA]
+rewriteRule ^admin.page/view-data-admin/delete-data-admin/$ medical-record/controller/admin/action.php [L,QSA]
+rewriteRule ^admin.page/view-data-user/delete-data-user/$ medical-record/controller/admin/action.php [L,QSA]
+rewriteRule ^admin.page/view-data-admin/$ medical-record/controller/admin/view_data_user.php [L,QSA]
+rewriteRule ^admin.page/view-data-user/$ medical-record/controller/admin/view_data_user_2.php [L,QSA]
+rewriteRule ^admin.page/detil-lks/$ medical-record/controller/admin/analisis-data-lks.php [L,QSA]
+
+#USER
+rewriteRule ^user.page/input-data-lks/$ medical-record/controller/user/input_data_lks.php [L,QSA]
+rewriteRule ^user.page/input-data-lks/proses$ medical-record/controller/user/process.php [L,QSA]
+rewriteRule ^user.page/input-data-lks/tes$ medical-record/controller/user/tes.php [L,QSA]
+rewriteRule ^user.page/edit-data-lks/$ medical-record/controller/user/edit_data_lks.php [L,QSA]
+rewriteRule ^user.page/edit-data-lks/proses$ medical-record/controller/user/process.php [L,QSA]
+rewriteRule ^user.page/edit-data-lks/tes$ medical-record/controller/user/tes.php [L,QSA]
+rewriteRule ^user.page/tabung_details/$ medical-record/controller/user/view_tube_user.php [L,QSA]
+rewriteRule ^user.page/search/$ medical-record/controller/user/search_data_lks.php [L,QSA]
+rewriteRule ^user.page/search/delete/$ medical-record/controller/user/user-delete-lks.php [L,QSA]
+rewriteRule ^user.page/view-data-lks/$ medical-record/controller/user/view_data_lks-2.php [L,QSA]
+rewriteRule ^user.page/view-data-lks/LKS-page/$ medical-record/controller/user/pdf-lks.php [L,QSA]
+rewriteRule ^user.page/view-data-lks/delete/$ medical-record/controller/user/user-delete-lks.php [L,QSA]
+rewriteRule ^user.page/detil-lks/$ medical-record/controller/user/analisis-data-lks.php [L,QSA]
+# rewriteRule ^user.page/view-data-lks/pdf-page/$ medical-record/ROOT-PDF/ [L,QSA]
+
+</IfModule>

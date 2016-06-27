@@ -1,0 +1,1541 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"row_tes_has",
+				"row_tes_hasil_dup"
+			],
+			[
+				"row_hasi",
+				"row_tes_hasil_dup"
+			],
+			[
+				"row_te",
+				"row_tes_hasil_dup"
+			],
+			[
+				"tb_tes",
+				"tb_tes_nm"
+			],
+			[
+				"L",
+				"L"
+			],
+			[
+				"stmt",
+				"stmt_hasil"
+			],
+			[
+				"fe",
+				"fetch"
+			],
+			[
+				"PARAM",
+				"PARAM_STR"
+			],
+			[
+				"name",
+				"nama_tes"
+			],
+			[
+				"form",
+				"form-control	 custom.css"
+			],
+			[
+				"kondii",
+				"kondisi1"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"aut",
+				"auto"
+			],
+			[
+				"st",
+				"style	<style>"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"col-p",
+				"col-sm-pull-3	 bootstrap.css"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"pos",
+				"pos-a	position: absolute;"
+			],
+			[
+				"lks",
+				"lkscrud"
+			],
+			[
+				"varia",
+				"variable_delete"
+			],
+			[
+				"row",
+				"rowCount"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ins",
+				"insert_tes_hasil_and_tes_hasil_hijau"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"col-xs-6",
+				"col-xs-6	 appv1.css"
+			],
+			[
+				"baga",
+				"baga_no_rekmed"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"S",
+				"_SESSION"
+			],
+			[
+				"jenis",
+				"jenis_kelamin"
+			],
+			[
+				"_S",
+				"_SESSION"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"username",
+				"username"
+			],
+			[
+				"pasw",
+				"password_verify"
+			],
+			[
+				"sessi",
+				"session_status"
+			],
+			[
+				"icon-user",
+				"icon-user	 appv1.css"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"c",
+				"controller"
+			],
+			[
+				"inputana",
+				"inputanalisiscairan"
+			],
+			[
+				"inputp",
+				"inputplain"
+			],
+			[
+				"tes_input",
+				"tes_input_hijau"
+			],
+			[
+				"laboge",
+				"laboge_array_tes_hijau"
+			],
+			[
+				"tb_vol_",
+				"tb_vol_spesimen_hijau"
+			],
+			[
+				"tb_tabung",
+				"tb_tabung_hijau"
+			],
+			[
+				"tb_krm",
+				"tb_krm_hijau"
+			],
+			[
+				"tb_kon",
+				"tb_kon_spesimen_hijau"
+			],
+			[
+				"tb_asal_spe",
+				"tb_asal_spesimen_hijau"
+			],
+			[
+				"insert",
+				"insert_hasil"
+			],
+			[
+				"key",
+				"key"
+			],
+			[
+				"pre",
+				"preg_match"
+			],
+			[
+				"tes",
+				"tes_input"
+			],
+			[
+				"fet",
+				"fetch"
+			],
+			[
+				"bg",
+				"bgc	background-color: #${1:fff};"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"trans",
+				"transition	CSS - transition: ;"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"label-su",
+				"label-success	 appv1.css"
+			],
+			[
+				"spr-",
+				"spr-srch	 custom.css"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"marig",
+				"margin-right"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"title",
+				"title-content	 custom.css"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pull-",
+				"pull-left	 appv1.css"
+			],
+			[
+				"pull",
+				"pull-left	 appv1.css"
+			],
+			[
+				"label-",
+				"label-danger	 appv1.css"
+			],
+			[
+				"inlien",
+				"inline-block"
+			],
+			[
+				"icon-remo",
+				"icon-remove	 appv1.css"
+			],
+			[
+				"level",
+				"level_acc"
+			],
+			[
+				"icon-ok-",
+				"icon-ok-sign	 appv1.css"
+			],
+			[
+				"session_",
+				"session_destroy"
+			],
+			[
+				"icon-e",
+				"icon-edit	 appv1.css"
+			],
+			[
+				"icon-era",
+				"icon-eraser	 appv1.css"
+			],
+			[
+				"icon-minus",
+				"icon-minus-sign	 appv1.css"
+			],
+			[
+				"icon-cher",
+				"icon-chevron-down"
+			],
+			[
+				"icon-chev",
+				"icon-chevron-down	 appv1.css"
+			],
+			[
+				"icon-se",
+				"icon-search	 appv1.css"
+			],
+			[
+				"icon-edit",
+				"icon-edit-sign	 appv1.css"
+			],
+			[
+				"active",
+				"active	 appv1.css"
+			],
+			[
+				"icon-plus",
+				"icon-plus-sign	 appv1.css"
+			],
+			[
+				"php",
+				"php	<?php … ?>"
+			],
+			[
+				"view_",
+				"view_tube_user"
+			],
+			[
+				"di",
+				"divider	 bootstrap.css"
+			],
+			[
+				"icon-file-te",
+				"icon-file-text	 appv1.css"
+			],
+			[
+				"icon-download",
+				"icon-download-alt	 appv1.css"
+			],
+			[
+				"icon-do",
+				"icon-download	 appv1.css"
+			],
+			[
+				"bg-",
+				"bg-dark	 appv1.css"
+			],
+			[
+				"nav-",
+				"nav-divider	 appv1.css"
+			],
+			[
+				"divi",
+				"divider	 appv1.css"
+			],
+			[
+				"icon-he",
+				"icon-ellipsis-horizontal	 appv1.css"
+			],
+			[
+				"batas",
+				"batas-atas-bawah	 custom.css"
+			],
+			[
+				"icon-ell",
+				"icon-ellipsis-horizontal	 appv1.css"
+			],
+			[
+				"icon-be",
+				"icon-beaker	 appv1.css"
+			],
+			[
+				"col-xs-9",
+				"col-xs-9	 bootstrap.css"
+			],
+			[
+				"scr",
+				"scrollable	 app.v1.css"
+			],
+			[
+				"sc",
+				"scrollable	 appv1.css"
+			],
+			[
+				"nav-ver",
+				"nav-vertical	 appv1.css"
+			],
+			[
+				"ex",
+				"extract"
+			],
+			[
+				"tube",
+				"tube_name"
+			],
+			[
+				"col",
+				"col-md-8	 bootstrap.css"
+			],
+			[
+				"ob_",
+				"ob_end_flush"
+			],
+			[
+				"att",
+				"attr	.attr() - single"
+			],
+			[
+				"at",
+				"attr	.attr() - multiple"
+			],
+			[
+				"fun",
+				"function without name"
+			],
+			[
+				"func",
+				"description-Function"
+			],
+			[
+				"function",
+				"function without name"
+			],
+			[
+				"setTim",
+				"setTimeout(func, delay)	Window"
+			],
+			[
+				"ba",
+				"background	Attr"
+			],
+			[
+				"no",
+				"no_rekmed"
+			],
+			[
+				"glyphicon-minus",
+				"glyphicon-minus-sign	 bootstrap.css"
+			],
+			[
+				"glyphicon-minu",
+				"glyphicon-minus-sign	 bootstrap.css"
+			],
+			[
+				"glyph",
+				"glyphicon	 bootstrap.css"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"a",
+				"abs	CSS - position: absolute;"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"imp",
+				"@import	@import url(${0});"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"style",
+				"style	Attr"
+			],
+			[
+				"req",
+				"req	require …"
+			],
+			[
+				"view_data",
+				"view_data_lks-2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 342.0,
+		"last_filter": "SSSASS",
+		"selected_items":
+		[
+			[
+				"SSSASS",
+				"Set Syntax: SASS"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"pc",
+				"Package Control: Remove Package"
+			],
+			[
+				"pco",
+				"Package Control: Disable Package"
+			],
+			[
+				"sshtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"pce",
+				"Package Control: Enable Package"
+			],
+			[
+				"pcd",
+				"Package Control: Disable Package"
+			],
+			[
+				"ssjava",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"paci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcre",
+				"Package Control: Remove Package"
+			],
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssja",
+				"Set Syntax: Java"
+			],
+			[
+				"pph",
+				"Set Syntax: PHP"
+			],
+			[
+				"conf",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"find",
+				"FindKeyConflicts: All Conflicts"
+			],
+			[
+				"fin",
+				"FindKeyConflicts: Command Search"
+			],
+			[
+				"pcu",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ssph",
+				"Set Syntax: PHP"
+			],
+			[
+				"ssht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ssa",
+				"Set Syntax: Apache Conf"
+			],
+			[
+				"ssp",
+				"Set Syntax: PHP"
+			],
+			[
+				"p i",
+				"Package Control: Install Package"
+			],
+			[
+				"sspp",
+				"Set Syntax: PHP"
+			],
+			[
+				"sshm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sort",
+				"Sort Tabs: Menu"
+			],
+			[
+				"side bar",
+				"Side Bar: Refresh"
+			],
+			[
+				"sider",
+				"Side Bar: Refresh"
+			],
+			[
+				"pcintall",
+				"Package Control: Install Package"
+			],
+			[
+				"pcinta",
+				"Package Control: Install Package"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"git dii",
+				"Git: Diff Current File"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git add ",
+				"Git: Add All"
+			],
+			[
+				"git add",
+				"Git: Add All"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublie",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"pcin",
+				"Package Control: Install Package"
+			],
+			[
+				"pcinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"pcins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"sublime li",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"subl",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pcie",
+				"Package Control: Disable Package"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"subliem",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"snipper",
+				"Snippet: input - range"
+			],
+			[
+				"snippet	",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"ssc",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 458.0,
+		"history":
+		[
+			"``",
+			"  ",
+			"clean",
+			"clear",
+			".htmlhintrc",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/LKS-PATOLOGI",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/include",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/libs/lks_crud_class.php",
+		"/C/Users/BOGE BAGA/Desktop/baga.sass",
+		"/C/Users/BOGE BAGA/Desktop/baga.css",
+		"/C/Users/BOGE BAGA/Desktop/baga.scss",
+		"/C/Users/BOGE BAGA/Desktop/baga.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/index.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/errordocs/400.php",
+		"/C/Users/BOGE BAGA/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/LKS-PATOLOGI/LKS-rsUNHAS.sublime-project",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/obstart.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/fpdf-fill-lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/fpdf-fill-lks-2.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/fpdf-lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/coba.php",
+		"/C/Users/BOGE BAGA/Desktop/asd.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/assets/js/app.v1.js",
+		"/C/xampp/htdocs/LKS-PATOLOGI/part2.js",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/assets/js/app.v11.js",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/assets/js/appv1.js",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/assets/js/bootstrap-editable.js",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/index.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/assets/js/datecho.js",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/assets/css/custom.css",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/sections/footer.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/input-data-lks/sampel-pasien-hijau.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/input-data-lks/data_verifikasi_validasi.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/input-data-lks/sampel-pasien.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/edit-data-lks/edit_data_verifikasi_validasi.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/edit-data-lks/edit_data_pasien.php",
+		"/D/NEW_MOVIE/[IMDb Rating - 7.3] Steve Jobs (2015)/Steve.Jobs.2015.ALL-BluRay-BDRip-BRRip-GIBRANAS-Yellow-smi.smi",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/libs/lks_user_class.php",
+		"/C/QT/5.6.0/README.txt",
+		"/C/QT/5.6.0/qtbase/mkspecs/win32-msvc2015/qmake.conf",
+		"/C/QT/5.6.0/qtbase/INSTALL",
+		"/C/QT/5.6.0/qtbase/.qmake.conf",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/index.php",
+		"/C/Users/BOGE BAGA/Downloads/Programs",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/analisis-lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/input-data-lks/data_hasil.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/pdf-lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/user/pdf-lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/index_2.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/.htaccess",
+		"/C/Users/BOGE BAGA/AppData/Roaming/Sublime Text 3/Packages/User/Zeal.sublime-settings",
+		"/C/Users/BOGE BAGA/AppData/Roaming/Sublime Text 3/Packages/Zeal/Zeal.sublime-settings",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/libs/database.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/input-data-lks/data_pasien.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/input_jenis_tes.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/user/input_jenis_tes_lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/view-data-lks-2/view_data_sampel.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/view-data-lks-2/view_data_sampel_hijau.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/assets/css/transition-slide.css",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/admin/edit_data_user.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/input_data_lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/edit_data_lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/admin/input_data_user.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/view_data_lks_2.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/assets/css/appv1.css",
+		"/C/xampp/htdocs/LKS-PATOLOGI/conf",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/assets/css/bootstrap.css",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/admin/view_data_user.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/admin/view_data_user_2.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/cari_data_lks.php",
+		"/C/Program Files (x86)/one-Click.bat",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/new",
+		"/C/xampp/htdocs/LKS-PATOLOGI/custom.css",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/input_data_user.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/menu.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/menu2.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/index_2.php",
+		"/C/Users/BOGE BAGA/Desktop/aero.theme",
+		"/C/xampp/htdocs/PDO/edit-data.php",
+		"/C/xampp/htdocs/PDO/class.crud.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/edit_data_user.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/edit_data_lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/assets/css/asd",
+		"/C/Users/BOGE BAGA/Pictures/WEB Development/CSS/font-face.txt",
+		"/C/Program Files/Sublime Text 3/sublime_text.exe",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/login.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/login/login.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/menu_analisis.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/menu_edit.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/menu_input.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/menu_search.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/menu_view.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/admin/menu.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/admin/menu1.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/admin/menu_edit.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/admin/menu_input.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/admin-delete-lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/analisis-data-lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/input_data_lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/search_data_lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/view_data_lks-2.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/view_data_user.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/view_data_user_2.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/view_tube_admin.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/user/analisis-data-lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/user/edit_data_lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/user/input_data_lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/user/search_data_lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/user/view_data_lks-2.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/user/view_tube_user.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/logout.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/user/user-delete-lks.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/user/search.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/admin/process.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/edit-data-lks/tablewith_hijau.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/edit-data-lks/tablewith.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/assets/css/login-style.css",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/fpdf-check-box-lks-2.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/view-data-lks-2/view_data_hasil_hijau.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/edit-data-lks/sampel-pasien-hijau.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/include/masukkan_kirim_analy.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/include/masukkan_kon_vol.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/include/masukkan_spesimen.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/include/masukkan_tabung.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/view-data-lks-2/tablewith_hijau.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/input-data-lks/tablewith_hijau.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/controller/user/process.php",
+		"/C/Users/BOGE BAGA/Desktop/one-Click",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/edit-data-lks/edit_data_sample.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/edit-data-lks/edit_data_hasil.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/edit-data-lks/sampel-pasien.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/input-data-lks/data_sample.php",
+		"/C/xampp/htdocs/faultpoint/dashboard/views/pages/home.php",
+		"/C/xampp/htdocs/LKS-PATOLOGI/BACKup-css",
+		"/C/xampp/htdocs/LKS-PATOLOGI/dashboard/medical-record/views/pages/user/view_daftar_tabung.php"
+	],
+	"find":
+	{
+		"height": 71.0
+	},
+	"find_in_files":
+	{
+		"height": 92.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"// tb_nama_tes\n	$stmt_nama_tes = $DB_con->prepare(\"SELECT * FROM tb_nama_tes\");\n	$stmt_nama_tes->execute();\n	// $row_tes_hasil = $stmt_nama_tes->fetch(PDO::FETCH_ASSOC);",
+			"multi",
+			"cell",
+			"\n    $.fn.editableform.buttons = \n      '<button type=\"submit\" class=\"btn btn-primary btn-sm editable-submit\">'+\n        '<i class=\"icon-ok\"></i>'+\n      '</button>'+\n      '<button type=\"button\" class=\"btn btn-default btn-sm editable-cancel\">'+\n        '<i class=\"icon-remove\"></i>'+\n      '</button>';",
+			"glyphicon",
+			"modal",
+			"Like",
+			"12.45",
+			"12.7",
+			"12.45",
+			"hasil_",
+			"tes_",
+			"tes_1",
+			" ",
+			"array",
+			"array('' => , ),",
+			"ekstrak",
+			"row1",
+			"stmt1",
+			"tes_detil_analisis_merah",
+			"tes_detil_analisis_hijau",
+			"$stmt->bindparam(\":no_rekmed\",$no_rekmed,PDO::PARAM_INT);",
+			"latar-merah",
+			"lembar-full",
+			"panel-top",
+			"lembar-full",
+			"md",
+			".col-xs-push",
+			".col-xs-pull-",
+			".col-xs-pull",
+			"col-xs-pull",
+			".help-btn",
+			"lembar-full",
+			".full-container",
+			"search",
+			"\n    ",
+			"daftar-tombol",
+			"aksi_tombol",
+			"tombol-aksi",
+			".scroll-a",
+			"search",
+			".panel-header .group-search",
+			"btn-cari",
+			"daftar-user",
+			"scroll",
+			"overflow",
+			"daftar-user",
+			"hitung_jumlah_record_lks",
+			"article,\naside,\ndetails,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmain,\nnav,\nsection,\nsummary",
+			"bold-line",
+			"batas-samping",
+			".garis-bawah",
+			".garis-samping-putus",
+			".aksi_tombol .daftar_tombol",
+			".fix-panel-danger",
+			".badan-modal .huruf-besar",
+			".content-mini-row:hover .blur-abs  .tbl-lks:active",
+			".content-mini-row:hover .blur-abs",
+			".daftar-user:hover .btn-group-user .edit-user:hover,",
+			".data-user",
+			".garis-samping",
+			".daftar-user .lingkaran",
+			".daftar-user:hover .block-background",
+			".daftar-user:hover .user-kop,",
+			".huruf-tipis",
+			".user-lks-btn",
+			".margin-d",
+			".add-sett",
+			"#image_container",
+			".panel-heading-putih",
+			".panel-danger > .panel-heading-hijau",
+			"a[data-toggle='collapse'],",
+			".panel-group-custom",
+			".form-control:focus",
+			".k-autocomplete.k-state-focused,",
+			".form-control-view",
+			".panel-header .group-search button.btn-cari",
+			".panel-header .group-search .box-search .search-border-less",
+			"footer.labaga ul.karir-page",
+			"footer.labaga ul.karir-page li.karir-space .btn-foot:hover",
+			".sprite_pic",
+			"footer.labaga ul.karir-page li.karir-space .btn-foot:hover",
+			".clean-label",
+			"footer.labaga ul.karir-page li.karir-space",
+			"footer.labaga ul.connect-sn li.sn-space",
+			"footer.labaga",
+			".detil-content .title-detil",
+			".col-centered",
+			".image-sprite-lks",
+			".lks-s .lks-title",
+			".big-size",
+			".action-panel",
+			".title-action-standalone",
+			".icon-content-up.m-top",
+			"a .icon-content-down.spr-srch",
+			".g-m-rl-10",
+			".title-block",
+			".content-container",
+			".image-user-pic-au",
+			".details-user",
+			".d-head-container",
+			".head-detail-sistem",
+			".label-font-size",
+			".detilnya [alt^=\"Logos\"]",
+			".detilnya",
+			".cari-lks",
+			".gly-opt",
+			".kotak-search-hover",
+			".kotak-search",
+			".kotak-search-tombol",
+			".logo-search-lks",
+			"body,html",
+			"img.tube-details",
+			"h1.header-wrap",
+			".bisa",
+			".panel-header .group-search button.btn-cari:active",
+			".panel-header .group-search button.btn-cari:hover",
+			".panel-header .group-search .box-search",
+			".panel-header .group-search",
+			".left-panel",
+			".panel-header",
+			".connect-user",
+			".batas-atas-bawah",
+			".lks_action_button:active,",
+			".aksi_tombol ul.daftar_tombol li .del-btn",
+			".aksi_tombol ul.daftar_tombol li .user-btn",
+			".aksi_tombol .daftar_tombol li",
+			".content-mini-row .kop-lks"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 92.0
+	},
+	"output.exec":
+	{
+		"height": 92.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 86.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 114.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 92.0
+	},
+	"pinned_build_system": "",
+	"project": "LKS-rsUNHAS.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"lks",
+				"dashboard\\libs\\lks_crud_class.php"
+			],
+			[
+				"date",
+				"dashboard\\assets\\js\\datecho.js"
+			],
+			[
+				"cus",
+				"dashboard\\assets\\css\\custom.css"
+			],
+			[
+				"clas",
+				"dashboard\\libs\\lks_crud_class.php"
+			],
+			[
+				"crud",
+				"dashboard\\libs\\lks_crud_class.php"
+			],
+			[
+				"footer",
+				"dashboard\\medical-record\\views\\sections\\footer.php"
+			],
+			[
+				"class",
+				"dashboard\\libs\\lks_crud_class.php"
+			],
+			[
+				"ht",
+				"dashboard\\.htaccess"
+			],
+			[
+				"data",
+				"dashboard\\libs\\database.php"
+			],
+			[
+				"trans",
+				"dashboard\\assets\\css\\transition-slide.css"
+			],
+			[
+				"view_data",
+				"dashboard\\medical-record\\views\\pages\\user\\view_data_lks_2.php"
+			],
+			[
+				"custo",
+				"dashboard\\assets\\css\\custom.css"
+			],
+			[
+				"view_data__l",
+				"dashboard\\medical-record\\views\\pages\\user\\view_data_lks_2.php"
+			],
+			[
+				"boo",
+				"dashboard\\assets\\css\\bootstrap.css"
+			],
+			[
+				"app",
+				"dashboard\\assets\\css\\appv1.css"
+			],
+			[
+				"vie",
+				"dashboard\\medical-record\\views\\pages\\user\\view_data_lks_2.php"
+			],
+			[
+				"custom",
+				"dashboard\\assets\\css\\custom.css"
+			],
+			[
+				"lks_user",
+				"dashboard\\libs\\lks_user_class.php"
+			],
+			[
+				"lks_",
+				"dashboard\\libs\\lks_crud_class.php"
+			],
+			[
+				"tra",
+				"dashboard\\assets\\css\\transition-slide.css"
+			],
+			[
+				"input_data_user",
+				"dashboard\\medical-record\\views\\pages\\admin\\input_data_user.php"
+			],
+			[
+				"edit_data_user",
+				"dashboard\\medical-record\\views\\pages\\admin\\edit_data_user.php"
+			],
+			[
+				"ap",
+				"dashboard\\assets\\css\\appv1.css"
+			],
+			[
+				"cust",
+				"dashboard\\assets\\css\\custom.css"
+			],
+			[
+				"view_data_lks",
+				"dashboard\\medical-record\\views\\pages\\user\\view_data_lks_2.php"
+			],
+			[
+				"input_data",
+				"dashboard\\medical-record\\views\\pages\\user\\input_data_lks.php"
+			],
+			[
+				"cla",
+				"dashboard\\libs\\lks_user_class.php"
+			],
+			[
+				"edit",
+				"dashboard\\medical-record\\controller\\admin\\edit_data_user.php"
+			],
+			[
+				"edit_data_lks",
+				"dashboard\\medical-record\\views\\pages\\user\\edit_data_lks.php"
+			],
+			[
+				"edit_data",
+				"dashboard\\medical-record\\controller\\admin\\edit_data_lks.php"
+			],
+			[
+				"input_data_lks",
+				"dashboard\\medical-record\\views\\pages\\user\\input_data_lks.php"
+			],
+			[
+				"css",
+				"dashboard\\assets\\css\\custom.css"
+			],
+			[
+				"login",
+				"dashboard\\medical-record\\views\\login\\login.php"
+			],
+			[
+				"edu",
+				"dashboard\\medical-record\\views\\pages\\admin\\edit_data_user.php"
+			],
+			[
+				"log",
+				"dashboard\\medical-record\\views\\login\\login.php"
+			],
+			[
+				"hta",
+				"dashboard\\.htaccess"
+			],
+			[
+				"input",
+				"dashboard\\medical-record\\views\\pages\\admin\\input_data_user.php"
+			],
+			[
+				"datecho",
+				"dashboard\\assets\\js\\datecho.js"
+			],
+			[
+				"analis",
+				"dashboard\\medical-record\\controller\\admin\\analisis-data-lks.php"
+			],
+			[
+				"head",
+				"dashboard\\medical-record\\views\\sections\\head.php"
+			],
+			[
+				"logi",
+				"dashboard\\assets\\css\\login-style.css"
+			],
+			[
+				"index",
+				"dashboard\\medical-record\\controller\\index.php"
+			],
+			[
+				"appv",
+				"dashboard\\assets\\css\\appv1.css"
+			],
+			[
+				".htas",
+				"dashboard\\.htaccess"
+			],
+			[
+				".ha",
+				"dashboard\\.htaccess"
+			],
+			[
+				".ht",
+				"dashboard\\.htaccess"
+			],
+			[
+				"menu",
+				"dashboard\\medical-record\\views\\pages\\admin\\menu.php"
+			],
+			[
+				"menu2",
+				"dashboard\\medical-record\\views\\pages\\admin\\menu2.php"
+			],
+			[
+				"slide",
+				"dashboard\\assets\\css\\transition-slide.css"
+			],
+			[
+				"tabung",
+				"dashboard\\medical-record\\views\\pages\\users\\view_daftar_tabung.php"
+			],
+			[
+				"search_da",
+				"dashboard\\medical-record\\controller\\user\\search_data_lks.php"
+			],
+			[
+				"sear",
+				"dashboard\\medical-record\\controller\\admin\\search_data_lks.php"
+			],
+			[
+				"cusot",
+				"dashboard\\assets\\css\\custom.css"
+			],
+			[
+				"jque",
+				"dashboard\\assets\\js\\jquery.js"
+			],
+			[
+				"login-style.css",
+				"dashboard\\assets\\css\\login-style.css"
+			],
+			[
+				"table",
+				"dashboard\\medical-record\\views\\pages\\users\\edit-data-lks\\tablewith.php"
+			],
+			[
+				"foo",
+				"dashboard\\medical-record\\views\\sections\\footer.php"
+			],
+			[
+				"input_data_lks.php",
+				"dashboard\\medical-record\\controller\\user\\input_data_lks.php"
+			],
+			[
+				"dat",
+				"dashboard\\assets\\js\\datecho.js"
+			],
+			[
+				"da",
+				"dashboard\\assets\\js\\datecho.js"
+			],
+			[
+				"boots",
+				"dashboard\\assets\\css\\bootstrap.css"
+			],
+			[
+				"bootstrap.css",
+				"dashboard\\assets\\css\\bootstrap.css"
+			],
+			[
+				"boot",
+				"dashboard\\assets\\css\\bootstrap.css"
+			],
+			[
+				"lo",
+				"dashboard\\assets\\css\\login-style.css"
+			],
+			[
+				"masukka",
+				"dashboard\\include\\masukkan_spesimen.php"
+			],
+			[
+				"bootstrap.js",
+				"dashboard\\assets\\js\\bootstrap.js"
+			],
+			[
+				"",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\faultpoint\\faultpoint.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 342.0,
+		"last_filter": "glyphico",
+		"selected_items":
+		[
+			[
+				"glyphico",
+				"glyphicon"
+			],
+			[
+				"col-lg",
+				"col-lg-10"
+			]
+		],
+		"width": 398.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 248.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

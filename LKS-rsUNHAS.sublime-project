@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"path": "C:\\xampp\\htdocs\\LKS-PATOLOGI"
+		}
+	],
+
+	"settings": 
+	{
+		"sublime-view-in-browser": {
+			"baseUrl": "http://localhost/LKS-PATOLOGI",
+			"basePath": "C:\\xampp\\htdocs\\LKS-PATOLOGI"
+		},
+
+		"Autoprefixer": {
+            "browsers": ["last 7 versions"]
+        }
+	}
+}
